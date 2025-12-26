@@ -1,6 +1,6 @@
 ! CURRENTLY REQUIRES MACOS SYSTEM TO RUN WEBCAM-SPECIFIC FUNCTIONS
 
-DEMO:
+DEMO (read below for functionality descriptions):
 
 ![Image](https://github.com/user-attachments/assets/0d261196-ea3b-4a23-ade1-71e36a8860de)
 
