@@ -1,8 +1,8 @@
 ! CURRENTLY REQUIRES MACOS SYSTEM TO RUN WEBCAM-SPECIFIC FUNCTIONS
 
-WATCH THE PROJECT DEMO: 
+![Image](https://github.com/user-attachments/assets/0d261196-ea3b-4a23-ade1-71e36a8860de)
 
-My project, Draw the World, is a gesture-controlled virtual drawing app using computer vision that allows the user to draw directly in their camera frame with built-in functionalities. These functionalities include allowing the user to draw with their pointer finger, select colors, toggle the pen (to switch drawing mode on or off), clear the canvas and take screenshots. This is a project primarily built off of OpenCV and MediaPipe Hands, with additional libraries such as NumPy and Time: these libraries provide the program the ability to recognize hand landmarks and process frames in real time.
+This is a gesture-controlled virtual drawing app using computer vision that allows the user to draw directly in their camera frame with built-in functionalities. These functionalities include allowing the user to draw with their pointer finger, select colors, toggle the pen (to switch drawing mode on or off), clear the canvas and take screenshots. This is a project primarily built off of OpenCV and MediaPipe Hands, with additional libraries such as NumPy and Time: these libraries provide the program the ability to recognize hand landmarks and process frames in real time.
 
 The program can be run on VSCode or any Python compiler. In particular, a working webcam is needed, as is a macOS system (for the command used to access and open the webcam). The Python libraries which are needed include OpenCV, MediaPipe and NumPy, which can be downloaded from their respective website’s release page.
 
